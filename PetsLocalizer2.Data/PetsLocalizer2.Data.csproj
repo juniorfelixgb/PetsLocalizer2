@@ -58,6 +58,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repositorio\BaseRepository.cs" />
     <Compile Include="Repositorio\MascotasRepository.cs" />
+    <Compile Include="Repositorio\PropietarioRepository.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
